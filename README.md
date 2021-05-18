@@ -12,7 +12,6 @@ The aim of this project is to create a .NET Web API that accepts an order, store
 * CQRS pattern is used with MediatR
 * AutoMapper for ojbect-to-object mapping
 * xUnit and Moq for unit testing
-* Abstract Factory pattern is used to construct Product
 * Virtual CalculateBinWidth method porvides polymorphism
 * Builder pattern (OrderBuilder) is used to create an Order
 
